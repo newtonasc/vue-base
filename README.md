@@ -29,6 +29,8 @@ yarn install
 
 ### Compile and Hot-Reload for Development
 
+https://localhost:5173/
+
 ```sh
 yarn dev
 ```
